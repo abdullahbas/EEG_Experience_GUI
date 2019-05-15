@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaHoca", "EdaHoca\EdaHoca.csproj", "{EC080ED9-9A49-4E35-9596-C83B97477E37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC67A024-17E4-43D1-89C2-8B5A0D552E9B}"
+	ProjectSection(SolutionItems) = preProject
+		arrow-pointing-to-left.png = arrow-pointing-to-left.png
+		arrow-pointing-to-right.png = arrow-pointing-to-right.png
+		fire.png = fire.png
+		occupation-33-512.png = occupation-33-512.png
+		power-button.png = power-button.png
+		Ramiz Quliyev - Ləpələr.wav = Ramiz Quliyev - Ləpələr.wav
+		user-experience.png = user-experience.png
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EEG", "EEG\EEG.vdproj", "{8DC4AED6-FAF0-4E11-9BB8-E7DFD481191F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC080ED9-9A49-4E35-9596-C83B97477E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC080ED9-9A49-4E35-9596-C83B97477E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC080ED9-9A49-4E35-9596-C83B97477E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC080ED9-9A49-4E35-9596-C83B97477E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC4AED6-FAF0-4E11-9BB8-E7DFD481191F}.Debug|Any CPU.ActiveCfg = Debug
+		{8DC4AED6-FAF0-4E11-9BB8-E7DFD481191F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D92AA8-4A27-4090-8376-6D0F7E910B67}
+	EndGlobalSection
+EndGlobal

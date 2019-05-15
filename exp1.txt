@@ -1,0 +1,10 @@
+Başlıyoruz	3
+object	1	11	12	13
+Bip	10	20
+Bip Sesi gelene kadar gözlerinizi kapalı tutun	13
+Bip	1	1
+Bip Sesi ile gözlerinizi kırpın	2
+Bip	10	5
+Lütfen Dinlenin	5
+Bip sesi ile birlikte gözlerinizi kırpın	3
+Bip	10	20
