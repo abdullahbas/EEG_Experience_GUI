@@ -11,7 +11,7 @@ Basically you can customize all the experiment with your wishes. There is a samp
 #
 
 # TXT Format
-![Channel Shuff](https://github.com/abdullahbas/EEG_Experience_GUI/blob/master/txt.jpg?raw=true)
+![Channel Shuff](https://github.com/abdullahbas/EEG_Experience_GUI/blob/master/txt.JPG?raw=true)
 #
 ![Channel Shuff](https://github.com/abdullahbas/EEG_Experience_GUI/blob/master/EEG1.png?raw=true)
 #
